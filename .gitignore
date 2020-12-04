@@ -1,0 +1,7 @@
+terraform/.terraform*
+terraform/terraform.tfstate*
+setup/_variables.json
+setup/variables.*.json
+setup/.terraform*
+setup/terraform.tfstate*
+.env
